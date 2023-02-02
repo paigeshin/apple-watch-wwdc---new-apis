@@ -2,6 +2,16 @@
 
 https://developer.apple.com/videos/play/wwdc2022/10133/
 
+### Principles of Components
+
+Heirarchical => Views with list-detail relationship => NavigationStack
+
+Page-based => Flat collection => TabView
+
+Full screen => Any full-screen content => ignoreSafeArea and toolbar modifiers
+
+Modal sheet => Important tasks => sheet modifier 
+
 ```swift
 //
 //  ContentView.swift
